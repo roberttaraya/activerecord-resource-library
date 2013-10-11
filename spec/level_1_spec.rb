@@ -1,6 +1,4 @@
 require 'spec_helper'
-require_relative '../models/topic'
-require_relative '../models/resource'
 
 # Unit Tests
 describe Topic do
